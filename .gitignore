@@ -1,0 +1,5 @@
+# NirSoft utility config files
+*.cfg
+
+# Manually-created shortcuts
+*.lnk
